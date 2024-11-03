@@ -129,7 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-/sf_salary
+./sf_salary_data_practice/sf_salary
 
 # Spyder project settings
 .spyderproject
